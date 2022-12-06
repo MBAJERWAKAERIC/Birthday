@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1670315466 source:d:\class\bd\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<process.h>
+	<dos.h>
+
+1670318774 source:d:\class\mre-soft\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<process.h>
+	<dos.h>
+
